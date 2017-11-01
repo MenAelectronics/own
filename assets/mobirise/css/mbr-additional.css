@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -7,16 +9,9 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-0 .mbr-navbar__items a {
-  font-size: 17px;
-}
-#header1-b P {
-  color: #000000;
-  font-size: 22px;
+#header1-1 P {
+  font-family: 'Lora', serif;
   text-align: left;
-}
-#header1-b H1 {
-  color: #000000;
 }
 #menu-4 .mbr-brand__name {
   font-size: 16px;
@@ -27,9 +22,25 @@
 #menu-4 .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#menu-4 .mbr-navbar__items a {
-  font-size: 17px;
-}
 #features1-6 P {
   color: #b8312f;
+}
+#menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-9 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box5-b .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-b .mbr-header__subtext {
+  color: #b8312f;
+  font-size: 19px;
+}
+#msg-box5-b .mbr-article {
+  color: #ffffff;
 }
